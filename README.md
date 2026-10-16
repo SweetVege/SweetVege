@@ -1,5 +1,5 @@
 <h1 align="center">SweetVege</h1>
-<p align="center"><strong>Data Science · Analytics · AI Engineering</strong></p>
+<p align="center"><strong>Data Science · Data Analytics · AI Engineering</strong></p>
 
 <p align="center">
   Turning analytical methods into useful AI applications.<br>
