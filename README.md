@@ -1,9 +1,9 @@
-<h1 align="center">SweetVege</h1>
+<h1 align="center">Yuming Gao</h1>
 <p align="center"><strong>Data Science · Data Analytics · AI Engineering</strong></p>
 
 <p align="center">
-  Turning analytical methods into useful AI applications.<br>
-  Exploring AI safety, governance, and human oversight.
+  I build AI applications for data analysis, experimentation, and risk monitoring,<br>
+  with an emphasis on verifiable results and human oversight.
 </p>
 
 <p align="center">
@@ -15,17 +15,19 @@
 
 ## Selected work
 
-| Project | Focus | Explore |
+| Project | What it explores | Explore |
 | --- | --- | --- |
-| **[Inferra](https://github.com/SweetVege/inferra)** | AI-assisted analytics, experimentation, and modeling with verified insights. | [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md) |
-| **[AI-RiskOps](https://github.com/SweetVege/AI-RiskOps)** | A full-stack prototype for AI risk analytics and investigation. | [Demo](https://ai-riskops.vercel.app) |
-| **[agent-risk-monitor](https://github.com/SweetVege/agent-risk-monitor)** | Runtime monitoring and human review for coding agents. | [Demo](https://sweetvege.github.io/agent-risk-monitor/demo/) · [Evals](https://sweetvege.github.io/agent-risk-monitor/) |
+| **[Inferra](https://github.com/SweetVege/inferra)** | Bringing analytics, experimentation, and predictive modeling into AI agent workflows, with verified insights. | [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md) |
+| **[AI-RiskOps](https://github.com/SweetVege/AI-RiskOps)** | Connecting AI risk metrics, event investigation, and model-call evidence in a full-stack application. | [Demo](https://ai-riskops.vercel.app) |
+| **[agent-risk-monitor](https://github.com/SweetVege/agent-risk-monitor)** | Checking coding-agent actions before execution through runtime policies and human review. | [Demo](https://sweetvege.github.io/agent-risk-monitor/demo/) · [Evals](https://sweetvege.github.io/agent-risk-monitor/) |
+
+## Areas of interest
+
+- **Data science & analytics** — Experimentation, causal inference, forecasting, and model evaluation.
+- **AI applications** — Agent workflows, analytical tools, and full-stack development.
+- **AI safety & governance** — Output verification, runtime monitoring, and human oversight.
 
 ## Toolkit
 
 **Data & modeling** · pandas · scikit-learn · statsmodels · DuckDB · Postgres  
 **Applications & delivery** · FastAPI · React · Next.js · Docker · GitHub Actions
-
----
-
-<p align="center"><sub>Open to opportunities in Data Science, Analytics, and AI Application Engineering.</sub></p>
