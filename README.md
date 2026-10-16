@@ -17,7 +17,7 @@
 
 | Project | What it explores | Explore |
 | --- | --- | --- |
-| **[Inferra](https://github.com/SweetVege/inferra)** | Bringing analytics, experimentation, and predictive modeling into AI agent workflows, with verified insights. | [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md) |
+| **[Inferra](https://github.com/SweetVege/inferra)** | Bringing analytics, experimentation, and predictive modeling into AI agent workflows, with verified insights. | [Live App](https://inferra-demo.vercel.app/) · [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md) |
 | **[AI-RiskOps](https://github.com/SweetVege/AI-RiskOps)** | Connecting AI risk metrics, event investigation, and model-call evidence in a full-stack application. | [Demo](https://ai-riskops.vercel.app) |
 | **[agent-risk-monitor](https://github.com/SweetVege/agent-risk-monitor)** | Checking coding-agent actions before execution through runtime policies and human review. | [Demo](https://sweetvege.github.io/agent-risk-monitor/demo/) · [Evals](https://sweetvege.github.io/agent-risk-monitor/) |
 
