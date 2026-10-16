@@ -1,43 +1,31 @@
-# Data Science, Analytics & AI Applications
+<h1 align="center">SweetVege</h1>
+<p align="center"><strong>Data Science · Analytics · AI Engineering</strong></p>
 
-I build data-driven applications that combine statistical analysis with AI engineering. My projects span analytical workflows, full-stack AI products, and agent systems, with a growing interest in AI safety and governance.
+<p align="center">
+  Turning analytical methods into useful AI applications.<br>
+  Exploring AI safety, governance, and human oversight.
+</p>
 
-**Open to opportunities in Data Science, Analytics, and AI Application Engineering.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square" alt="AI Agents">
+</p>
 
-## Selected projects
+## Selected work
 
-### [Inferra](https://github.com/SweetVege/inferra) · AI-assisted data science
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **[Inferra](https://github.com/SweetVege/inferra)** | AI-assisted analytics, experimentation, and modeling with verified insights. | [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md) |
+| **[AI-RiskOps](https://github.com/SweetVege/AI-RiskOps)** | A full-stack prototype for AI risk analytics and investigation. | [Demo](https://ai-riskops.vercel.app) |
+| **[agent-risk-monitor](https://github.com/SweetVege/agent-risk-monitor)** | Runtime monitoring and human review for coding agents. | [Demo](https://sweetvege.github.io/agent-risk-monitor/demo/) · [Evals](https://sweetvege.github.io/agent-risk-monitor/) |
 
-A data science workbench that turns natural-language questions into analytical workflows, with computed results, verification, and human review.
+## Toolkit
 
-- **Analysis:** A/B testing, regression, causal inference workflows, forecasting, and predictive modeling.
-- **Engineering:** Specialist agents use typed tools against sandboxed DuckDB; a deterministic verifier checks findings against computed artifacts before review.
-- **Explore:** [Code & setup](https://github.com/SweetVege/inferra) · [Architecture](https://github.com/SweetVege/inferra/blob/main/docs/ARCHITECTURE.md)
+**Data & modeling** · pandas · scikit-learn · statsmodels · DuckDB · Postgres  
+**Applications & delivery** · FastAPI · React · Next.js · Docker · GitHub Actions
 
-### [AI-RiskOps](https://github.com/SweetVege/AI-RiskOps) · AI risk analytics & operations
+---
 
-A full-stack prototype for exploring risk across LLM, RAG, and agent applications, from summary metrics to individual events and model-call evidence.
-
-- **Analytics:** Risk trends, application-level metrics, driver analysis, and event investigation using seeded demo data.
-- **Engineering:** Scoped APIs, model-call ingestion, policy configuration, and a deployed Next.js application backed by Postgres.
-- **Explore:** [Live demo](https://ai-riskops.vercel.app) · [Code & architecture](https://github.com/SweetVege/AI-RiskOps)
-
-### [agent-risk-monitor](https://github.com/SweetVege/agent-risk-monitor) · Agent safety & oversight
-
-A runtime monitor that checks coding-agent actions before execution and can allow, hold for human review, deny, or suspend a session.
-
-- **Evaluation:** Recorded experiments and step-by-step replays explore agent behavior with and without monitor intervention.
-- **Engineering:** Claude Code hooks, policy rules, session tracking, an audit trail, and a human review console.
-- **Explore:** [Console demo](https://sweetvege.github.io/agent-risk-monitor/demo/) · [Evaluation results](https://sweetvege.github.io/agent-risk-monitor/) · [Code & limitations](https://github.com/SweetVege/agent-risk-monitor)
-
-## Tools across these projects
-
-| Data science & analytics | AI application engineering |
-| --- | --- |
-| Python, SQL, pandas, SciPy, statsmodels, scikit-learn | TypeScript, React, Next.js, FastAPI |
-| Experimentation, forecasting, model evaluation | LLM tool use, agent workflows, output verification |
-| DuckDB, Postgres, data modeling | Docker, GitHub Actions, Vercel |
-
-## Exploring AI safety & governance
-
-I'm interested in how AI systems can make their outputs verifiable and their actions accountable: grounded analytical claims, runtime policies, evaluation evidence, and meaningful human oversight.
+<p align="center"><sub>Open to opportunities in Data Science, Analytics, and AI Application Engineering.</sub></p>
